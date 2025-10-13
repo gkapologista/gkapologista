@@ -19,6 +19,16 @@ Passionate Full Stack Software Developer specializing in modern web technologies
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gkapologista&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkapologista&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
+</div>
+
 ## 🏆 Achievements & Education
 
 - 🥇 **Best Thesis Award** - PersonaWeb: ML-powered Product Recommendation System
