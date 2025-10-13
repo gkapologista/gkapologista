@@ -2,12 +2,24 @@
 
 ## 🚀 About Me
 
-Full Stack Software Developer with experience in modern JavaScript frameworks and backend technologies. Currently working on scalable web applications and machine learning solutions.
+Passionate Full Stack Software Developer with a strong foundation in modern web technologies and machine learning. I specialize in building scalable applications using JavaScript frameworks and have a particular interest in AI-powered solutions.
 
-- 🔭 Working on **machine learning-powered recommendation systems**
-- 🌱 Learning **advanced ML algorithms and cloud architecture**
-- 💬 Ask me about **Vue.js, Node.js, Python, or Meteor.js**
-- ⚡ Fun fact: Graduated Cum Laude and won Best Thesis Award
+**What I Do:**
+- 💻 Developing **full-stack web applications** with Vue.js, Meteor.js, and Node.js
+- 🧠 Exploring **advanced ML algorithms** and their practical applications
+- ☁️ Learning **cloud architecture** and deployment strategies
+
+**My Approach:**
+- 🎯 **Problem-solving focused** - I love tackling complex challenges
+- 📚 **Continuous learner** - Always exploring new technologies and frameworks
+- 🤝 **Collaborative** - Enjoy working with teams and sharing knowledge
+- 💡 **Innovation-driven** - Passionate about creating efficient and user-friendly solutions
+
+**Fun Facts:**
+- 🏆 Graduated **Cum Laude** and won **Best Thesis Award** for my ML recommendation system
+- 🎓 Proud alumnus of **University of San Agustin** (Class of 2024)
+- 💬 Always happy to discuss **Vue.js, Node.js, Python, Meteor.js, or machine learning**
+- 🌱 Currently expanding my knowledge in **cloud technologies and advanced ML algorithms**
 
 ## 🛠️ Tech Stack
 
@@ -19,11 +31,19 @@ Full Stack Software Developer with experience in modern JavaScript frameworks an
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gkapologista&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
+- 🔥 **Full Stack Development** - Building scalable web applications
+- 🚀 **Machine Learning** - Working on recommendation systems
+- 📚 **Continuous Learning** - Exploring new technologies and frameworks
+- 💡 **Problem Solving** - Creating innovative software solutions
+
+## 🏆 Key Achievements
+
+- 🥇 **Best Thesis Award** - PersonaWeb: ML-powered Product Recommendation System
+- 🏅 **Cum Laude Graduate** - Bachelor of Science in Computer Science
+- 💻 **Software Developer** - Currently building scalable web applications
+- 🎓 **University of San Agustin** - Class of 2024
 
 ## 🎓 Education
 
@@ -35,7 +55,7 @@ University of San Agustin | 2020 - 2024
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="mailto:gkapologista@example.com">
+  <a href="mailto:gkapologista0800@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/gkapologista" target="_blank">
