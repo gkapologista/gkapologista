@@ -2,24 +2,12 @@
 
 ## 🚀 About Me
 
-Passionate Full Stack Software Developer with a strong foundation in modern web technologies and machine learning. I specialize in building scalable applications using JavaScript frameworks and have a particular interest in AI-powered solutions.
+Passionate Full Stack Software Developer specializing in modern web technologies and machine learning. I build scalable applications using JavaScript frameworks and have a particular interest in AI-powered solutions.
 
-**What I Do:**
 - 💻 Developing **full-stack web applications** with Vue.js, Meteor.js, and Node.js
 - 🧠 Exploring **advanced ML algorithms** and their practical applications
-- ☁️ Learning **cloud architecture** and deployment strategies
-
-**My Approach:**
-- 🎯 **Problem-solving focused** - I love tackling complex challenges
-- 📚 **Continuous learner** - Always exploring new technologies and frameworks
-- 🤝 **Collaborative** - Enjoy working with teams and sharing knowledge
-- 💡 **Innovation-driven** - Passionate about creating efficient and user-friendly solutions
-
-**Fun Facts:**
-- 🏆 Graduated **Cum Laude** and won **Best Thesis Award** for my ML recommendation system
-- 🎓 Proud alumnus of **University of San Agustin** (Class of 2024)
-- 💬 Always happy to discuss **Vue.js, Node.js, Python, Meteor.js, or machine learning**
-- 🌱 Currently expanding my knowledge in **cloud technologies and advanced ML algorithms**
+- 🎯 **Problem-solving focused** - Love tackling complex challenges
+- 💡 **Innovation-driven** - Passionate about creating efficient solutions
 
 ## 🛠️ Tech Stack
 
@@ -31,26 +19,11 @@ Passionate Full Stack Software Developer with a strong foundation in modern web 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 🎯 Current Focus
-
-- 🔥 **Full Stack Development** - Building scalable web applications
-- 🚀 **Machine Learning** - Working on recommendation systems
-- 📚 **Continuous Learning** - Exploring new technologies and frameworks
-- 💡 **Problem Solving** - Creating innovative software solutions
-
-## 🏆 Key Achievements
+## 🏆 Achievements & Education
 
 - 🥇 **Best Thesis Award** - PersonaWeb: ML-powered Product Recommendation System
 - 🏅 **Cum Laude Graduate** - Bachelor of Science in Computer Science
-- 💻 **Software Developer** - Currently building scalable web applications
 - 🎓 **University of San Agustin** - Class of 2024
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**  
-University of San Agustin | 2020 - 2024  
-- **Graduated Cum Laude**
-- **Best Thesis Award**: PersonaWeb ML-powered Product Recommendation System
 
 ## 🤝 Connect With Me
 
