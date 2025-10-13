@@ -19,19 +19,17 @@ Passionate Full Stack Software Developer specializing in modern web technologies
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gkapologista&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_owner=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gkapologista&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkapologista&theme=tokyonight&hide_border=true&include_all_commits=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkapologista&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkapologista&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Contribution Graph" />
-</div>
+> **Note:** To see all contributions including private repositories, visit my [GitHub profile](https://github.com/gkapologista) and enable "Private contributions" in contribution settings.
 
 ## 🏆 Achievements & Education
 
