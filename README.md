@@ -9,15 +9,6 @@ Passionate Full Stack Software Developer specializing in modern web technologies
 - 🎯 **Problem-solving focused** - Love tackling complex challenges
 - 💡 **Innovation-driven** - Passionate about creating efficient solutions
 
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="mailto:gkapologista0800@gmail.com">Email</a> ·
-  <a href="https://github.com/gkapologista" target="_blank">GitHub</a> ·
-  <a href="https://example.com/resume.pdf" target="_blank">Resume</a> ·
-  <a href="https://example.com/portfolio" target="_blank">Portfolio</a>
-</div>
-
 ## 🧰 Preferred Stack
 
 - **Languages**: JavaScript, TypeScript, Python, PHP, HTML, CSS
@@ -31,7 +22,6 @@ Passionate Full Stack Software Developer specializing in modern web technologies
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkapologista&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkapologista&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
 > **Note:** To see all contributions including private repositories, visit my [GitHub profile](https://github.com/gkapologista) and enable "Private contributions" in contribution settings.
