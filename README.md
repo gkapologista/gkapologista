@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 
-Passionate Full Stack Software Developer specializing in modern web technologies and machine learning. I build scalable applications using JavaScript frameworks and have a particular interest in AI-powered solutions.
+Passionate Full Stack Software Developer with 3+ years of experience specializing in modern web technologies and end-to-end application development. I architect and build scalable, production-ready applications using JavaScript frameworks, with expertise in both frontend and backend systems. As a Cum Laude Computer Science graduate, I combine strong theoretical knowledge with practical implementation skills to deliver robust, user-centric solutions that solve real-world problems.
 
 - 💻 Developing **full-stack web applications** with Vue.js, Meteor.js, and Node.js
-- 🧠 Exploring **advanced ML algorithms** and their practical applications
+- 🔧 Building **robust backend APIs** and database architectures
 - 🎯 **Problem-solving focused** - Love tackling complex challenges
 - 💡 **Innovation-driven** - Passionate about creating efficient solutions
 
@@ -13,10 +13,10 @@ Passionate Full Stack Software Developer specializing in modern web technologies
 
 - **Languages**: JavaScript, TypeScript, Python, PHP, HTML, CSS
 - **Frontend**: Vue.js, React, Meteor.js, Bootstrap, Quasar, Figma
-- **Backend**: Node.js, Express.js, Laravel, Strapi
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Cloud & DevOps**: Google Cloud, Docker, GitHub, Jira
-- **ML & Data**: scikit-learn, Pandas, NumPy
+- **Backend**: Node.js, Express.js, Laravel, Strapi, RESTful APIs
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+- **Cloud & DevOps**: Google Cloud, Docker, GitHub, Jira, CI/CD
+- **Tools & Testing**: Jest, Postman, Git, Webpack, Babel
 
 ## 📊 GitHub Activity
 
