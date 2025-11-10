@@ -12,12 +12,14 @@ Passionate Full Stack Software Developer with years of experience specializing i
 
 ## 🧰 Preferred Stack
 
-- **Languages**: JavaScript, TypeScript, Python, PHP, HTML, CSS
-- **Frontend**: Vue.js, React, Meteor.js, Bootstrap, Quasar
-- **Backend**: Node.js, Express.js, Laravel, Strapi, Prisma
+- **Languages**: JavaScript, Python
+- **Frontend**: Vue.js, React.js, Quasar
+- **Full-Stack**: Meteor.js
+- **Backend**: Node.js, Express.js, Strapi
 - **Databases**: PostgreSQL, MySQL, MongoDB, Redis
-- **Cloud & DevOps**: Docker, Kubernetes, Helm, Prometheus, Grafana, CI/CD
-- **Tools & Testing**: Git, GitHub, Postman, Jest, Webpack
+- **Database Tools**: Prisma
+- **Cloud & DevOps**: Docker, Kubernetes, Helm, Prometheus, Grafana, GitHub
+- **Tools & Testing**: Git, Postman, Webpack
 
 ## 📊 GitHub Activity
 
