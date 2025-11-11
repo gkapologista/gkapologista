@@ -24,7 +24,7 @@ Passionate Full Stack Software Developer with years of experience specializing i
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkapologista&theme=tokyonight&hide_border=true&start_date=2024-09-02" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkapologista&theme=tokyonight&hide_border=true&start_date=2024-09-02&v=2" alt="GitHub Streak" height="150" />
 </div>
 
 > **Note:** To see all contributions including private repositories, visit my [GitHub profile](https://github.com/gkapologista) and enable "Private contributions" in contribution settings.
