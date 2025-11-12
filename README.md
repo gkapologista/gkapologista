@@ -37,7 +37,14 @@ As a Cum Laude Computer Science graduate and University Instructor with over a y
 
 ## 🏆 Achievements & Education
 
+### 🏆 Achievements
+
 - 🥇 **Best Thesis Award** - PersonaWeb: Design and Implementation of JATAMI Website with Decision Tree Algorithm for Personalized Product Recommendation
-- 🏅 **Cum Laude Graduate** - Bachelor of Science in Computer Science
-- 🎓 **University of San Agustin** - Class of 2024
+
+### 🎓 Education
+
+- 🎓 **Bachelor of Science in Computer Science**  
+  - **Institution**: University of San Agustin  
+  - **Graduation**: Class of 2024  
+  - **Honors**: Cum Laude
 
