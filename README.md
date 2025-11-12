@@ -2,7 +2,13 @@
 
 ## 🚀 About Me
 
-Passionate Full Stack Software Developer with years of experience specializing in modern web technologies and end-to-end application development. I architect and build scalable, production-ready applications using JavaScript frameworks, with expertise in both frontend and backend systems. As a Cum Laude Computer Science graduate and University Instructor with over a year of teaching experience, I combine strong theoretical knowledge with practical implementation skills to deliver robust, user-centric solutions that solve real-world problems.
+I'm a passionate Full Stack Software Developer with years of experience specializing in modern web technologies and end-to-end application development.
+
+I architect and build scalable, production-ready applications using JavaScript frameworks, with expertise in both frontend and backend systems. My work focuses on delivering robust, user-centric solutions that solve real-world problems.
+
+As a Cum Laude Computer Science graduate and University Instructor with over a year of teaching experience, I combine strong theoretical knowledge with practical implementation skills to bridge the gap between academia and industry.
+
+### What I Do
 
 - 💻 Developing **full-stack web applications** with Vue.js, Meteor.js, and Node.js
 - 🔧 Building **robust backend APIs** and database architectures
