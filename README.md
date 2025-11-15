@@ -16,50 +16,20 @@ As a Cum Laude Computer Science graduate and University Instructor with over a y
 - 🎯 **Problem-solving focused** - Love tackling complex challenges
 - 💡 **Innovation-driven** - Passionate about creating efficient solutions
 
+
 ## 🧰 Preferred Stack
 
-- **Languages**
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,python&perline=2" />
-  </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,python,vuejs,react,nodejs,expressjs,postgresql,mysql,mongodb,redis,prisma,docker,kubernetes,prometheus,grafana,github,git,postman,webpack&perline=6" />
+</p>
 
-- **Frontend**
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=vuejs,react&perline=2" />
-    <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar" />
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar" />
+  <img src="https://img.shields.io/badge/Meteor-DE4F4F?style=flat-square&logo=meteor&logoColor=white" alt="Meteor" />
+  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+</p>
 
-- **Full-Stack**
-  <p align="center">
-    <img src="https://img.shields.io/badge/Meteor-DE4F4F?style=flat-square&logo=meteor&logoColor=white" alt="Meteor" />
-  </p>
-
-- **Backend**
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs&perline=2" />
-    <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" />
-  </p>
-
-- **Databases**
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis&perline=4" />
-  </p>
-
-- **Database Tools**
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=prisma&perline=1" />
-  </p>
-
-- **Cloud & DevOps**
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,github&perline=5" />
-    <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
-  </p>
-
-- **Tools & Testing**
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,postman,webpack&perline=3" />
-  </p>
 
 ## 📊 GitHub Activity
 
