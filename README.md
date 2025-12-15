@@ -33,9 +33,9 @@ As a Cum Laude Computer Science graduate and University Instructor with over a y
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gkapologista&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gkapologista" alt="GitHub Streak" />
+</p>
 
 > **Note:** To see all contributions including private repositories, visit my [GitHub profile](https://github.com/gkapologista) and enable "Private contributions" in contribution settings.
 
