@@ -2,32 +2,48 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Software Developer with years of experience specializing in modern web technologies and end-to-end application development.
+I'm a **Senior Frontend Developer** with years of experience specializing in modern web technologies and scalable UI architecture.
 
-I architect and build scalable, production-ready applications using JavaScript frameworks, with expertise in both frontend and backend systems. My work focuses on delivering robust, user-centric solutions that solve real-world problems.
+I lead and build complex, production-ready frontend systems with a focus on **Vue.js** and the modern JavaScript ecosystem. My work emphasizes maintainable, scalable frontend architecture that delivers robust, user-centric solutions.
 
-As a Cum Laude Computer Science graduate and University Instructor with over a year of teaching experience, I combine strong theoretical knowledge with practical implementation skills to bridge the gap between academia and industry.
+As a Cum Laude Computer Science graduate and former University Instructor, I combine strong theoretical foundations with hands-on implementation expertise.
 
 ### What I Do
 
-- 💻 Developing **full-stack web applications** with Vue.js, Meteor.js, and Node.js
-- 🔧 Building **robust backend APIs** and database architectures
-- 🎓 **University Instructor** - Over a year of experience teaching computer science
+- 💻 Leading **complex UI systems** and frontend architecture
+- 🖼️ Building **scalable Vue.js applications** with modern best practices
+- 🔧 Crafting **maintainable, component-driven frontends**
+- 🤖 Leveraging **AI-assisted development** with Cursor and Antigravity
 - 🎯 **Problem-solving focused** - Love tackling complex challenges
-- 💡 **Innovation-driven** - Passionate about creating efficient solutions
 
 
 ## 🧰 Preferred Stack
 
+### Frontend Focus
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,python,vuejs,react,nodejs,expressjs,postgresql,mysql,mongodb,redis,prisma,docker,kubernetes,prometheus,grafana,github,git,postman,webpack&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vuejs,javascript,typescript,react,nodejs,vite,webpack&perline=7" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar" />
-  <img src="https://img.shields.io/badge/Meteor-DE4F4F?style=flat-square&logo=meteor&logoColor=white" alt="Meteor" />
-  <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black" alt="Pinia" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt" />
+</p>
+
+### Development Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Antigravity-6C47FF?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### Backend & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb,docker,kubernetes&perline=6" />
 </p>
 
 
@@ -51,4 +67,3 @@ As a Cum Laude Computer Science graduate and University Instructor with over a y
   - **Institution**: University of San Agustin  
   - **Graduation**: Class of 2024  
   - **Honors**: Cum Laude
-
