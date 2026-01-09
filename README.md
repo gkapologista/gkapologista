@@ -17,6 +17,19 @@ As a Cum Laude Computer Science graduate and former University Instructor, I com
 - 🎯 **Problem-solving focused** - Love tackling complex challenges
 
 
+## 🌐 Portfolio
+
+**[View Portfolio →](https://gkapologista.github.io/gkapologista-portfolio/#/)**
+
+9 featured projects showcasing Vue.js and Quasar Framework expertise, including:
+
+- **Unified Communication Hub** — Real-time integrations with WebRTC, Twilio, and Gmail API
+- **PersonaWeb** — E-commerce with Decision Tree algorithm for personalized recommendations
+- **Commissioned & Production Work** — Professional client deliverables and internship projects
+
+Built with Vue 3, Quasar, Node.js, and PostgreSQL.
+
+
 ## 🧰 Preferred Stack
 
 ### Frontend Focus
