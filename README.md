@@ -4,7 +4,7 @@
 
 I'm a **Senior Frontend Developer** with years of experience specializing in modern web technologies and scalable UI architecture.
 
-I lead and build complex, production-ready frontend systems with a focus on **Vue.js** and the modern JavaScript ecosystem. My work emphasizes maintainable, scalable frontend architecture that delivers robust, user-centric solutions.
+I lead and build complex, production-ready frontend systems with a focus on **Vue.js**, **React.js**, and the **Inertia.js/Laravel** ecosystem. My work emphasizes maintainable, scalable architecture that delivers robust, user-centric solutions.
 
 As a Cum Laude Computer Science graduate and former University Instructor, I combine strong theoretical foundations with hands-on implementation expertise.
 
@@ -56,7 +56,7 @@ Built with Vue 3, Quasar, Node.js, and PostgreSQL.
 ### Backend & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb,docker,kubernetes&perline=6" />
+  <img src="https://skillicons.dev/icons?i=laravel,inertia,nodejs,expressjs,postgresql,mongodb,docker,kubernetes&perline=8" />
 </p>
 
 
