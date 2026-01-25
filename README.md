@@ -4,7 +4,7 @@
 
 I'm a **Senior Frontend Developer** with years of experience specializing in modern web technologies and scalable UI architecture.
 
-I lead and build complex, production-ready frontend systems with a focus on **Vue.js**, **React.js**, and the **Inertia.js/Laravel** ecosystem. My work emphasizes maintainable, scalable architecture that delivers robust, user-centric solutions.
+I lead and build complex, production-ready frontend systems with a focus on **Vue.js**, **React.js**, and the **Laravel** ecosystem. My work emphasizes maintainable, scalable architecture that delivers robust, user-centric solutions.
 
 As a Cum Laude Computer Science graduate and former University Instructor, I combine strong theoretical foundations with hands-on implementation expertise.
 
@@ -30,32 +30,31 @@ As a Cum Laude Computer Science graduate and former University Instructor, I com
 Built with Vue 3, Quasar, Node.js, and PostgreSQL.
 
 
-## 🧰 Preferred Stack
+## 🧰 Tech Stack
 
-### Frontend Focus
-
+### 🚀 Core Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vuejs,javascript,typescript,react,nodejs,vite,webpack&perline=7" />
+  <img src="https://skillicons.dev/icons?i=vuejs,react,laravel,typescript,javascript&perline=5" />
 </p>
 
+### 💻 Frontend & Ecosystem
 <p align="center">
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar" />
   <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black" alt="Pinia" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-### Development Tools
+### 🛠️ Backend & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb,docker,kubernetes&perline=6" />
+</p>
 
+### 🔧 Development Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Antigravity-6C47FF?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-### Backend & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,inertia,nodejs,expressjs,postgresql,mongodb,docker,kubernetes&perline=8" />
 </p>
 
 
