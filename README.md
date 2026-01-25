@@ -56,14 +56,14 @@ Built with Vue 3, Quasar, Node.js, and PostgreSQL.
 ### Backend & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,inertia,nodejs,expressjs,postgresql,mongodb,docker,kubernetes&perline=8" />
+  <img src="https://skillicons.dev/icons?i=laravel,inertiajs,nodejs,expressjs,postgresql,mongodb,docker,kubernetes&perline=8" />
 </p>
 
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=gkapologista&theme=monokai" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=gkapologista&theme=monokai&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 > **Note:** To see all contributions including private repositories, visit my [GitHub profile](https://github.com/gkapologista) and enable "Private contributions" in contribution settings.
