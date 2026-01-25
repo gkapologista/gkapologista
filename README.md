@@ -41,7 +41,6 @@ Built with Vue 3, Quasar, Node.js, and PostgreSQL.
 <p align="center">
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar" />
   <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black" alt="Pinia" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt" />
 </p>
 
 ### Development Tools
@@ -56,7 +55,7 @@ Built with Vue 3, Quasar, Node.js, and PostgreSQL.
 ### Backend & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,inertiajs,nodejs,expressjs,postgresql,mongodb,docker,kubernetes&perline=8" />
+  <img src="https://skillicons.dev/icons?i=laravel,inertia,nodejs,expressjs,postgresql,mongodb,docker,kubernetes&perline=8" />
 </p>
 
 
