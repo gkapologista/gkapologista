@@ -2,19 +2,22 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Frontend Developer** with years of experience specializing in modern web technologies and scalable UI architecture.
+**Senior Software Engineer | Frontend Architecture & Full-Stack Development**
 
-I lead and build complex, production-ready frontend systems with a focus on **Vue.js**, **React.js**, and the **Laravel** ecosystem. My work emphasizes maintainable, scalable architecture that delivers robust, user-centric solutions.
+I design and ship production-grade web applications—specializing in scalable frontend architecture and robust full-stack systems.
 
-As a Cum Laude Computer Science graduate and former University Instructor, I combine strong theoretical foundations with hands-on implementation expertise.
+I lead complex, high-impact applications with **Vue.js**, **React**, **Laravel**, **Python**, and **Django**, and contribute across backend, APIs, and system architecture. I prioritize clean design, maintainability, and performance so solutions stay technically sound and user-centric.
+
+Cum Laude CS graduate and former University Instructor—I pair strong theory with hands-on engineering to tackle complex problems with depth and practical efficiency.
 
 ### What I Do
 
-- 💻 Leading **complex UI systems** and frontend architecture
-- 🖼️ Building **scalable Vue.js applications** with modern best practices
-- 🔧 Crafting **maintainable, component-driven frontends**
-- 🤖 Leveraging **AI-assisted development** with Cursor and Antigravity
-- 🎯 **Problem-solving focused** - Love tackling complex challenges
+- 🏗️ Lead frontend architecture and full-stack system design
+- 💻 Build scalable applications with **Vue.js**, **React**, **Laravel**, **Python**, and **Django**
+- 🔧 Design maintainable, component-driven frontend systems
+- 🔌 Develop and integrate backend logic, APIs, and data workflows
+- 🤖 Use AI-assisted tooling (**Cursor**, **Antigravity**) to ship faster
+- 🎯 Solve complex technical challenges with a solution-oriented mindset
 
 
 ## 🌐 Portfolio
@@ -32,29 +35,32 @@ Built with Vue 3, Quasar, Node.js, and PostgreSQL.
 
 ## 🧰 Tech Stack
 
-### 🚀 Core Expertise
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vuejs,react,laravel,typescript,javascript&perline=5" />
-</p>
 
-### 💻 Frontend & Ecosystem
+### 🎨 Frontend — Architecture & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vuejs,react,typescript,javascript&perline=4" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar" />
   <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black" alt="Pinia" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
-### 🛠️ Backend & Infrastructure
+### ⚙️ Backend — APIs & Server-Side
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,postgresql,mongodb,docker,kubernetes&perline=6" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,expressjs,python,django&perline=5" />
 </p>
 
-### 🔧 Development Tools
+### 🗄️ Data & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,docker,kubernetes&perline=4" />
+</p>
+
+### 🔧 Development & Tooling
 <p align="center">
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Antigravity-6C47FF?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 
@@ -70,11 +76,9 @@ Built with Vue 3, Quasar, Node.js, and PostgreSQL.
 
 ### 🏆 Achievements
 
-- 🥇 **Best Thesis Award** - PersonaWeb: Design and Implementation of JATAMI Website with Decision Tree Algorithm for Personalized Product Recommendation
+- 🥇 **Best Thesis Award** — PersonaWeb: Design and Implementation of JATAMI Website with Decision Tree Algorithm for Personalized Product Recommendation
+- 🎤 **Conducted Web Development Webinar** — HTML, CSS, and JavaScript
 
 ### 🎓 Education
 
-- 🎓 **Bachelor of Science in Computer Science**  
-  - **Institution**: University of San Agustin  
-  - **Graduation**: Class of 2024  
-  - **Honors**: Cum Laude
+- 🎓 **Bachelor of Science in Computer Science**, University of San Agustin, Class of 2024, Cum Laude
