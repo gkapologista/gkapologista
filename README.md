@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-**Senior Software Engineer | Frontend Architecture & Full-Stack Development**
+**Senior Full Stack Engineer**
 
 I design and ship production-grade web applications—specializing in scalable frontend architecture and robust full-stack systems.
 
