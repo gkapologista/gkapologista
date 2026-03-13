@@ -4,11 +4,11 @@
 
 **Senior Full Stack Engineer**
 
-I design and ship production-grade web applications—specializing in scalable frontend architecture and robust full-stack systems.
+I design and ship production-grade web applications—bridging the gap between scalable frontend architecture and robust backend systems.
 
-I lead complex, high-impact applications with **Vue.js**, **React**, **Laravel**, **Python**, and **Django**, and contribute across backend, APIs, and system architecture. I prioritize clean design, maintainability, and performance so solutions stay technically sound and user-centric.
+With deep expertise in **Vue.js**, **React**, **Laravel**, and **Django**, I lead the development of high-impact applications from architecture to deployment. I prioritize clean code, system performance, and user-centric design to build products that are technically sound and maintainable at scale.
 
-Cum Laude CS graduate and former University Instructor—I pair strong theory with hands-on engineering to tackle complex problems with depth and practical efficiency.
+Cum Laude CS graduate and former University Instructor—I leverage strong theoretical foundations and hands-on engineering to solve complex architectural challenges with depth and practical efficiency.
 
 ### What I Do
 
