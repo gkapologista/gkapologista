@@ -6,14 +6,14 @@
 
 I design and ship production-grade web applications—bridging the gap between scalable frontend architecture and robust backend systems.
 
-With deep expertise in **Vue.js**, **React**, **Laravel**, and **Django**, I lead the development of high-impact applications from architecture to deployment. I prioritize clean code, system performance, and user-centric design to build products that are technically sound and maintainable at scale.
+With deep expertise in **Vue.js**, **React**, **Node.js**, **Laravel**, and **Django**, I lead the development of high-impact applications from architecture to deployment. I prioritize clean code, system performance, and user-centric design to build products that are technically sound and maintainable at scale.
 
 Cum Laude CS graduate and former University Instructor—I leverage strong theoretical foundations and hands-on engineering to solve complex architectural challenges with depth and practical efficiency.
 
 ### What I Do
 
 - 🏗️ Lead frontend architecture and full-stack system design
-- 💻 Build scalable applications with **Vue.js**, **React**, **Laravel**, **Python**, and **Django**
+- 💻 Build scalable applications with **Vue.js**, **React**, **Node.js**, **Laravel**, and **Django**
 - 🔧 Design maintainable, component-driven frontend systems
 - 🔌 Develop and integrate backend logic, APIs, and data workflows
 - 🤖 Use AI-assisted tooling (**Cursor**, **Antigravity**) to ship faster
