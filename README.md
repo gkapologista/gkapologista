@@ -24,7 +24,7 @@ Cum Laude CS graduate and former University Instructor—I pair strong theory wi
 
 **[View Portfolio →](https://gkapologista.github.io/gkapologista-portfolio/#/)**
 
-9 featured projects showcasing Vue.js and Quasar Framework expertise, including:
+Featured projects showcasing Vue.js and Quasar Framework expertise, including:
 
 - **Unified Communication Hub** — Real-time integrations with WebRTC, Twilio, and Gmail API
 - **PersonaWeb** — E-commerce with Decision Tree algorithm for personalized recommendations
