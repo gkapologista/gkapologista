@@ -58,6 +58,7 @@ Built with Vue 3, Quasar, Node.js, and PostgreSQL.
 
 ### 🔧 Development & Tooling
 <p align="center">
+  <img src="https://img.shields.io/badge/Gemini_CLI-8E75E2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini CLI" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Antigravity-6C47FF?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
   <img src="https://skillicons.dev/icons?i=git,github" />
