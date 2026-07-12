@@ -10,7 +10,9 @@ There are no build, lint, or test processes — no package.json, Makefile, or CI
 
 ## Working with This Repository
 
-All changes are documentation edits to `README.md`. Commit messages follow the `docs:` prefix convention (e.g., `docs: update professional title`).
+All changes are documentation edits to `README.md`. Commit messages predominantly follow the `docs:` prefix convention (e.g., `docs: update professional title`).
+
+The README renders tech-stack badges and activity stats via external image services — `skillicons.dev`, `img.shields.io`, and `streak-stats.vercel.app`. These are the most fragile part of the file: icons break when a slug is wrong or a service changes, and much of the commit history is fixes to them. When editing badges, verify each icon slug against the service's supported list and check that images resolve in the rendered GitHub preview.
 
 ## Portfolio Context
 
